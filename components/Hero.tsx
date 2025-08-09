@@ -57,7 +57,7 @@ export function Hero() {
         <div className="pointer-events-none select-none absolute inset-0 flex items-center justify-center" aria-hidden>
           <img
             src={branding.logo.iconUrl}
-            alt="Kotori app logo — small listening bird"
+            alt="Kotori app logo - small listening bird"
             className="w-[95vw] md:w-[65vw] lg:w-[50vw] max-w-none opacity-[0.05] blur-[1px]"
           />
         </div>

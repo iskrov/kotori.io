@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Kotori - Hands-free journaling made simple",
-    "description": "Speak a short update. Kotori turns it into clear, searchable notes you can revisit and share—on your terms.",
+    "description": "Speak a short update. Kotori turns it into clear, searchable notes you can revisit and share - on your terms.",
     "tagline": "You talk. Kotori remembers.",
     "domain": "kotori.io"
   },
@@ -25,10 +25,10 @@
     }
   },
   "hero": {
-    "headline": "Capture today’s moments—hands‑free and private.",
-    "subheadline": "Speak a short update. Kotori turns it into clear, searchable notes you can revisit and share—on your terms.",
+    "headline": "Capture today's moments - hands-free and private.",
+    "subheadline": "Speak a short update. Kotori turns it into clear, searchable notes you can revisit and share - on your terms.",
     "cta": {
-      "primary": "Start 3‑month free trial",
+      "primary": "Start 3-month free trial",
       "secondary": "See how it works"
     },
     "image": {
@@ -38,7 +38,7 @@
     "backgroundStyle": "gradient"
   },
   "features": [
-    { "title": "Speak naturally", "description": "Capture moments in your own words and language—hands‑free.", "icon": "🎤" },
+    { "title": "Speak naturally", "description": "Capture moments in your own words and language - hands-free.", "icon": "🎤" },
     { "title": "Across languages", "description": "Keep entries in one language and share summaries in another when you need to.", "icon": "🌍" },
     { "title": "Gentle structure", "description": "Automatic titles and highlights make entries easy to skim later.", "icon": "🗂️" },
     { "title": "Find it fast", "description": "Search by dates, tags, and themes to surface what matters.", "icon": "🔎" },
@@ -47,13 +47,13 @@
   ],
   "valueProposition": {
     "headline": "Made for parents, built for peace of mind",
-    "description": "Keep a gentle rhythm of daily notes that add up to a clearer picture—so you’re ready when you need to share.",
+    "description": "Keep a gentle rhythm of daily notes that add up to a clearer picture - so you're ready when you need to share.",
     "benefits": ["Capture moments in your own words", "See patterns over time", "Share thoughtfully, on your terms", "Export anytime"]
   },
   "howItFeels": {
     "headline": "How journaling feels with Kotori",
     "steps": [
-      { "title": "Speak when it happens", "description": "No perfect phrasing needed—just say what you notice.", "icon": "🗣️" },
+      { "title": "Speak when it happens", "description": "No perfect phrasing needed - just say what you notice.", "icon": "🗣️" },
       { "title": "Kotori tidies for you", "description": "Your note gets a clear title and highlights for easy skimming.", "icon": "✨" },
       { "title": "Review and share (optional)", "description": "Find what matters later, and share a summary only if you choose.", "icon": "🤝" }
     ]
@@ -67,15 +67,15 @@
     ]
   },
   "useCases": [
-    { "title": "Capture the small moments", "description": "Voice a quick note when something changes—sleep, a new word, a tough transition.", "features": ["One‑tap record", "Gently structured entries", "Photos optional"] },
+    { "title": "Capture the small moments", "description": "Voice a quick note when something changes - sleep, a new word, a tough transition.", "features": ["One-tap record", "Gently structured entries", "Photos optional"] },
     { "title": "Reflect and prepare", "description": "Before an appointment, review highlights and see what patterns stand out.", "features": ["Highlights view", "Search by tag/date", "Calendar timeline"] },
     { "title": "Share across languages", "description": "Keep your entries in your language; send a summary in your doctor’s.", "features": ["Bilingual summaries", "Selective sharing", "Easy export"] }
   ],
   "callToAction": {
-    "headline": "Start your 3‑month free trial",
+    "headline": "Start your 3-month free trial",
     "description": "You talk. Kotori remembers.",
     "cta": {
-      "primary": "Start 3‑month free trial",
+      "primary": "Start 3-month free trial",
       "secondary": "Sign in with Google"
     },
     "urgency": "Limited early access",
@@ -83,7 +83,7 @@
   },
   "pricing": {
     "headline": "Pricing (TBD)",
-    "subheadline": "Start with a 3‑month free trial. Plans to be announced.",
+    "subheadline": "Start with a 3-month free trial. Plans to be announced.",
     "plans": [
       { "name": "Starter", "description": "For individual journaling", "priceText": "TBA", "cta": "Start free trial", "features": ["3‑month free trial", "Voice journaling", "Search & tags"] },
       { "name": "Family", "description": "Share with a partner", "priceText": "TBA", "cta": "Start free trial", "features": ["Everything in Starter", "Selective sharing", "Export anytime"] },

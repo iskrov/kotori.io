@@ -41,18 +41,18 @@
   "features": [
     { "title": "Voice → structure", "description": "Speak naturally; Kotori extracts titles, highlights, and tags so notes are easy to skim.", "icon": "🎤" },
     { "title": "Templates & reminders", "description": "Use simple prompts and gentle reminders that fit your rhythm.", "icon": "📝" },
-    { "title": "Low-stim, eyes-free", "description": "Capture without screens when you need to—just speak and continue your day.", "icon": "👁️‍🗨️" },
-    { "title": "Multi‑language share", "description": "Keep entries in your language and share a summary in another when needed.", "icon": "🌍" },
-    { "title": "Consent‑based sharing", "description": "Invite a caregiver or clinician with read‑only access you can revoke anytime.", "icon": "🔗" },
+     { "title": "Low-stim, eyes-free", "description": "Capture without screens when you need to - just speak and continue your day.", "icon": "👁️‍🗨️" },
+     { "title": "Multi-language share", "description": "Keep entries in your language and share a summary in another when needed.", "icon": "🌍" },
+     { "title": "Consent-based sharing", "description": "Invite a caregiver or clinician with read-only access you can revoke anytime.", "icon": "🔗" },
     { "title": "Weekly visit summary", "description": "One tap creates a clear weekly summary you can export and bring to appointments.", "icon": "📄" }
   ],
   "valueProposition": {
     "headline": "Clarity without the effort",
-    "description": "Kotori helps you keep a gentle record—short voice notes become organized entries and weekly summaries. Stay private by default, share only with consent, and see patterns without screens.",
+    "description": "Kotori helps you keep a gentle record - short voice notes become organized entries and weekly summaries. Stay private by default, share only with consent, and see patterns without screens.",
     "benefits": [
       "Private by default",
-      "Eyes‑free capture",
-      "Read‑only sharing you control",
+      "Eyes-free capture",
+      "Read-only sharing you control",
       "Visit‑ready weekly export"
     ]
   },
@@ -61,7 +61,7 @@
     "steps": [
       { "title": "Speak a quick note", "description": "Say what you notice in the moment.", "icon": "🗣️" },
       { "title": "Kotori organizes", "description": "Essentials surface into tidy, searchable notes.", "icon": "✨" },
-      { "title": "Review or share", "description": "Export a weekly summary or share read‑only when ready.", "icon": "🤝" }
+       { "title": "Review or share", "description": "Export a weekly summary or share read-only when ready.", "icon": "🤝" }
     ]
   },
   "security": {
@@ -89,9 +89,9 @@
   },
   "pricing": {
     "headline": "Pricing (TBD)",
-    "subheadline": "Start with a 3‑month free trial. Plans to be announced.",
+    "subheadline": "Start with a 3-month free trial. Plans to be announced.",
     "plans": [
-      { "name": "Starter", "description": "For individual journaling", "priceText": "TBA", "cta": "Start free trial", "features": ["3‑month free trial", "Voice journaling", "Search & tags"] },
+       { "name": "Starter", "description": "For individual journaling", "priceText": "TBA", "cta": "Start free trial", "features": ["3-month free trial", "Voice journaling", "Search & tags"] },
       { "name": "Family", "description": "Share with a partner", "priceText": "TBA", "cta": "Start free trial", "features": ["Everything in Starter", "Selective sharing", "Export anytime"] },
       { "name": "Care Team", "description": "For therapists/educators", "priceText": "TBA", "cta": "Request access", "features": ["Bilingual summaries", "Granular access", "Export notes"] }
     ]
@@ -111,7 +111,7 @@
   "footer": {
     "company": {
       "name": "Kotori",
-      "description": "Kotori — Privacy voice journaling with smart organization. Your journal is private by default. You choose what to share and can revoke access anytime. Kotori is not a medical device and does not provide medical advice, diagnosis, or treatment."
+      "description": "Kotori - Privacy voice journaling with smart organization. Your journal is private by default. You choose what to share and can revoke access anytime. Kotori is not a medical device and does not provide medical advice, diagnosis, or treatment."
     },
     "links": {
       "product": ["Features", "Security", "Pricing"],
@@ -129,7 +129,7 @@
     }
   },
   "seo": {
-    "keywords": ["voice journal", "low‑stim journaling", "read‑only sharing", "weekly summary"],
+    "keywords": ["voice journal", "low-stim journaling", "read-only sharing", "weekly summary"],
     "ogImage": "",
     "twitterCard": "summary_large_image"
   }
