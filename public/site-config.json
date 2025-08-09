@@ -1,0 +1,136 @@
+{
+  "site": {
+    "title": "Kotori — Calm, private voice journaling",
+    "description": "A low‑stim voice journal that organizes itself. Gentle prompts, eyes‑free capture, consent‑based sharing, multi‑language summaries, and visit‑ready weekly exports.",
+    "tagline": "You talk. Kotori remembers.",
+    "domain": "kotori.io"
+  },
+  "branding": {
+    "logo": {
+      "text": "Kotori",
+      "hasIcon": true,
+      "iconUrl": "/images/kotori_logo.png",
+      "horizontalUrl": "/images/kotori_logo_horizontal.png"
+    },
+    "colors": {
+      "primary": "#0D9488",
+      "secondary": "#38BDF8",
+      "accent": "#A78BFA",
+      "background": "#F8FAFC",
+      "text": "#0F172A",
+      "textLight": "#334155"
+    },
+    "fonts": {
+      "heading": "Sora",
+      "body": "Inter"
+    }
+  },
+  "hero": {
+    "headline": "Capture today's moments, private and simple.",
+    "subheadline": "Speak a short update. Kotori turns it into clear, searchable notes you can revisit and share on your terms.",
+    "cta": {
+      "primary": "Start free trial",
+      "secondary": "See how it works"
+    },
+    "image": {
+      "url": "/assets/hero.svg",
+      "alt": "Kotori app preview"
+    },
+    "backgroundStyle": "gradient"
+  },
+  "features": [
+    { "title": "Voice → structure", "description": "Speak naturally; Kotori extracts titles, highlights, and tags so notes are easy to skim.", "icon": "🎤" },
+    { "title": "Templates & reminders", "description": "Use simple prompts and gentle reminders that fit your rhythm.", "icon": "📝" },
+    { "title": "Low‑stim, eyes‑free", "description": "Capture without screens when you need to—just speak and continue your day.", "icon": "👁️‍🗨️" },
+    { "title": "Multi‑language share", "description": "Keep entries in your language and share a summary in another when needed.", "icon": "🌍" },
+    { "title": "Consent‑based sharing", "description": "Invite a caregiver or clinician with read‑only access you can revoke anytime.", "icon": "🔗" },
+    { "title": "Weekly visit summary", "description": "One tap creates a clear weekly summary you can export and bring to appointments.", "icon": "📄" }
+  ],
+  "valueProposition": {
+    "headline": "Clarity without the effort",
+    "description": "Kotori helps you keep a gentle record—short voice notes become organized entries and weekly summaries. Stay private by default, share only with consent, and see patterns without screens.",
+    "benefits": [
+      "Private by default",
+      "Eyes‑free capture",
+      "Read‑only sharing you control",
+      "Visit‑ready weekly export"
+    ]
+  },
+  "howItFeels": {
+    "headline": "How it works",
+    "steps": [
+      { "title": "Speak a quick note", "description": "Say what you notice in the moment.", "icon": "🗣️" },
+      { "title": "Kotori organizes", "description": "Essentials surface into tidy, searchable notes.", "icon": "✨" },
+      { "title": "Review or share", "description": "Export a weekly summary or share read‑only when ready.", "icon": "🤝" }
+    ]
+  },
+  "security": {
+    "headline": "You’re in control",
+    "items": [
+      { "title": "Private by default", "description": "Entries stay in your journal unless you choose to share." },
+      { "title": "Your data, your choice", "description": "Export anytime. Revoke access anytime." },
+      { "title": "Thoughtful sharing", "description": "Invite a partner or care professional only when ready." }
+    ]
+  },
+  "useCases": [
+    { "title": "Capture the small moments", "description": "Voice a quick note when something changes—sleep, a new word, a tough transition.", "features": ["One‑tap record", "Gently structured entries", "Photos optional"] },
+    { "title": "Reflect and prepare", "description": "Before an appointment, review highlights and see what patterns stand out.", "features": ["Highlights view", "Search by tag/date", "Calendar timeline"] },
+    { "title": "Share across languages", "description": "Keep your entries in your language; send a summary in your doctor’s.", "features": ["Bilingual summaries", "Selective sharing", "Easy export"] }
+  ],
+  "callToAction": {
+    "headline": "Journaling that actually works",
+    "description": "Capture moments without stopping. Share insights without worry. Get summaries without effort.",
+    "cta": {
+      "primary": "Start free trial",
+      "secondary": "See a summary"
+    },
+    "urgency": "Limited early access",
+    "trustSignals": []
+  },
+  "pricing": {
+    "headline": "Pricing (TBD)",
+    "subheadline": "Start with a 3‑month free trial. Plans to be announced.",
+    "plans": [
+      { "name": "Starter", "description": "For individual journaling", "priceText": "TBA", "cta": "Start free trial", "features": ["3‑month free trial", "Voice journaling", "Search & tags"] },
+      { "name": "Family", "description": "Share with a partner", "priceText": "TBA", "cta": "Start free trial", "features": ["Everything in Starter", "Selective sharing", "Export anytime"] },
+      { "name": "Care Team", "description": "For therapists/educators", "priceText": "TBA", "cta": "Request access", "features": ["Bilingual summaries", "Granular access", "Export notes"] }
+    ]
+  },
+  "faq": {
+    "headline": "Frequently asked questions",
+    "items": [
+      { "q": "Is Kotori helpful for ADHD and autism journaling?", "a": "Yes! Many parents and individuals with ADHD, autism, and other neurodivergent conditions find Kotori's voice-first approach ideal. The hands-free capture eliminates the friction of traditional journaling, while our gentle prompts help maintain consistency without overwhelming executive function." },
+      { "q": "How can I share notes with my child's therapist or doctor?", "a": "You can generate secure, read-only summaries for therapists, doctors, or specialists in any language they prefer. These summaries include only what you choose to share, and access can be revoked anytime. Perfect for IEP meetings, therapy sessions, or medical appointments." },
+      { "q": "Which languages are supported for special needs documentation?", "a": "Kotori supports 100+ languages! Document in your native language and share summaries in English (or any other language) with teachers, therapists, or healthcare providers. This is especially helpful for multilingual families navigating special education or therapy services." },
+      { "q": "Can multiple caregivers track the same child?", "a": "While each caregiver maintains their own private journal, you can easily share observations with co-parents, teachers, or care teams. This helps everyone stay aligned on behavioral patterns, medication effects, sleep changes, or developmental milestones." },
+      { "q": "Is this suitable for tracking behavioral patterns and triggers?", "a": "Absolutely. Parents often use Kotori to track meltdowns, sensory triggers, medication responses, sleep patterns, and developmental progress. The voice capture makes it easy to record in-the-moment observations that might otherwise be forgotten." },
+      { "q": "How secure is my family's sensitive health information?", "a": "Your data is encrypted and private by default. We cannot access your entries. This is crucial when documenting sensitive information about developmental delays, behavioral challenges, or medical conditions. You control all sharing." },
+      { "q": "Does Kotori provide medical or therapeutic advice?", "a": "No. Kotori is a journaling tool that helps you organize observations for your own reference or to share with professionals. We don't diagnose conditions or recommend treatments—we simply help you capture and organize important moments." }
+    ]
+  },
+  "footer": {
+    "company": {
+      "name": "Kotori",
+      "description": "Your journal is private by default. You choose what to share and can revoke access anytime. Kotori is not a medical device and does not provide medical advice, diagnosis, or treatment."
+    },
+    "links": {
+      "product": ["Features", "Security", "Pricing"],
+      "company": ["About", "FAQ", "Contact"],
+      "legal": ["Privacy", "Terms", "Security"]
+    },
+    "social": {
+      "twitter": "",
+      "linkedin": "",
+      "github": ""
+    },
+    "contact": {
+      "email": "hello@kotori.io",
+      "phone": ""
+    }
+  },
+  "seo": {
+    "keywords": ["voice journal", "low‑stim journaling", "read‑only sharing", "weekly summary"],
+    "ogImage": "",
+    "twitterCard": "summary_large_image"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "site": {
+    "title": "Kotori — Voice journaling for parents",
+    "description": "Speak a short update. Kotori turns it into clear, searchable notes you can revisit and share—on your terms.",
+    "tagline": "You talk. Kotori remembers.",
+    "domain": "kotori.io"
+  },
+  "branding": {
+    "logo": {
+      "text": "Kotori",
+      "hasIcon": false,
+      "iconUrl": ""
+    },
+    "colors": {
+      "primary": "#0D9488",
+      "secondary": "#38BDF8", 
+      "accent": "#A78BFA",
+      "background": "#F8FAFC",
+      "text": "#0F172A",
+      "textLight": "#334155"
+    },
+    "fonts": {
+      "heading": "Sora",
+      "body": "Inter"
+    }
+  },
+  "hero": {
+    "headline": "Capture today’s moments—hands‑free and private.",
+    "subheadline": "Speak a short update. Kotori turns it into clear, searchable notes you can revisit and share—on your terms.",
+    "cta": {
+      "primary": "Start 3‑month free trial",
+      "secondary": "See how it works"
+    },
+    "image": {
+      "url": "/assets/hero.png",
+      "alt": "Kotori app preview"
+    },
+    "backgroundStyle": "gradient"
+  },
+  "features": [
+    { "title": "Speak naturally", "description": "Capture moments in your own words and language—hands‑free.", "icon": "🎤" },
+    { "title": "Across languages", "description": "Keep entries in one language and share summaries in another when you need to.", "icon": "🌍" },
+    { "title": "Gentle structure", "description": "Automatic titles and highlights make entries easy to skim later.", "icon": "🗂️" },
+    { "title": "Find it fast", "description": "Search by dates, tags, and themes to surface what matters.", "icon": "🔎" },
+    { "title": "Timeline & calendar", "description": "See patterns over days and weeks—wins and worries together.", "icon": "🗓️" },
+    { "title": "Private by design", "description": "Your notes are yours. Share only when and how you choose.", "icon": "🔒" }
+  ],
+  "valueProposition": {
+    "headline": "Made for parents, built for peace of mind",
+    "description": "Keep a gentle rhythm of daily notes that add up to a clearer picture—so you’re ready when you need to share.",
+    "benefits": ["Capture moments in your own words", "See patterns over time", "Share thoughtfully, on your terms", "Export anytime"]
+  },
+  "howItFeels": {
+    "headline": "How journaling feels with Kotori",
+    "steps": [
+      { "title": "Speak when it happens", "description": "No perfect phrasing needed—just say what you notice.", "icon": "🗣️" },
+      { "title": "Kotori tidies for you", "description": "Your note gets a clear title and highlights for easy skimming.", "icon": "✨" },
+      { "title": "Review and share (optional)", "description": "Find what matters later, and share a summary only if you choose.", "icon": "🤝" }
+    ]
+  },
+  "security": {
+    "headline": "You’re in control",
+    "items": [
+      { "title": "Private by default", "description": "Entries stay in your journal unless you choose to share." },
+      { "title": "Your data, your choice", "description": "Export anytime. Revoke access anytime." },
+      { "title": "Thoughtful sharing", "description": "Invite a partner or care professional only when ready." }
+    ]
+  },
+  "useCases": [
+    { "title": "Capture the small moments", "description": "Voice a quick note when something changes—sleep, a new word, a tough transition.", "features": ["One‑tap record", "Gently structured entries", "Photos optional"] },
+    { "title": "Reflect and prepare", "description": "Before an appointment, review highlights and see what patterns stand out.", "features": ["Highlights view", "Search by tag/date", "Calendar timeline"] },
+    { "title": "Share across languages", "description": "Keep your entries in your language; send a summary in your doctor’s.", "features": ["Bilingual summaries", "Selective sharing", "Easy export"] }
+  ],
+  "callToAction": {
+    "headline": "Start your 3‑month free trial",
+    "description": "You talk. Kotori remembers.",
+    "cta": {
+      "primary": "Start 3‑month free trial",
+      "secondary": "Sign in with Google"
+    },
+    "urgency": "Limited early access",
+    "trustSignals": ["No credit card required", "Cancel anytime"]
+  },
+  "pricing": {
+    "headline": "Pricing (TBD)",
+    "subheadline": "Start with a 3‑month free trial. Plans to be announced.",
+    "plans": [
+      { "name": "Starter", "description": "For individual journaling", "priceText": "TBA", "cta": "Start free trial", "features": ["3‑month free trial", "Voice journaling", "Search & tags"] },
+      { "name": "Family", "description": "Share with a partner", "priceText": "TBA", "cta": "Start free trial", "features": ["Everything in Starter", "Selective sharing", "Export anytime"] },
+      { "name": "Care Team", "description": "For therapists/educators", "priceText": "TBA", "cta": "Request access", "features": ["Bilingual summaries", "Granular access", "Export notes"] }
+    ]
+  },
+  "faq": {
+    "headline": "Frequently asked questions",
+    "items": [
+      { "q": "Which languages are supported?", "a": "Kotori supports many widely used languages for journaling. You can also share summaries in a different language when needed." },
+      { "q": "Can I export my data?", "a": "Yes. You can export your notes anytime to PDF or CSV." },
+      { "q": "Do I have to share entries?", "a": "No. Your journal is private by default. Share only with people you invite." },
+      { "q": "Will there be a mobile app?", "a": "We’re starting on the web and working toward mobile. Your feedback helps shape the roadmap." },
+      { "q": "Is Kotori medical advice?", "a": "No. Kotori does not provide medical advice, diagnosis, or treatment." }
+    ]
+  },
+  "footer": {
+    "company": {
+      "name": "Kotori",
+      "description": "Kotori is a private voice journaling app for parents. Kotori does not provide medical advice, diagnosis, or treatment."
+    },
+    "links": {
+      "product": ["Features", "Security", "Pricing"],
+      "company": ["About", "FAQ", "Contact"],
+      "legal": ["Privacy", "Terms", "Security"]
+    },
+    "social": {
+      "twitter": "",
+      "linkedin": "",
+      "github": ""
+    },
+    "contact": {
+      "email": "hello@kotori.io",
+      "phone": ""
+    }
+  },
+  "seo": {
+    "keywords": ["voice journal", "parent journaling", "daily notes"],
+    "ogImage": "/assets/og.jpg",
+    "twitterCard": "summary_large_image"
+  }
+} 

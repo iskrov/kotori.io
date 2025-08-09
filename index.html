@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0D9488" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <title>Kotori</title>
+    <meta name="description" content="Speak a short update. Kotori turns it into clear, searchable notes you can revisit and share—on your terms." />
+    <meta name="keywords" content="voice journal, daily notes, parent journaling" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Kotori — Voice journaling for parents" />
+    <meta property="og:description" content="Speak a short update. Kotori turns it into clear, searchable notes you can revisit and share—on your terms." />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Nunito:wght@500;600;700&display=swap" rel="stylesheet" />
+
+    <!-- Tailwind via CDN for simplicity -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              kotori: {
+                primary: '#0D9488',
+                pastelBlue: '#EAF2FB',
+                pastelSage: '#EAF5F0',
+                pastelLavender: '#EFE9FB',
+                bg: '#F8FAFC',
+                text: '#374151',
+                textSecondary: '#4B5563',
+              },
+            },
+            fontFamily: {
+              sans: ['Nunito', 'Inter', 'system-ui', 'sans-serif'],
+              heading: ['Nunito', 'Inter', 'system-ui', 'sans-serif'],
+            },
+          },
+        },
+        darkMode: 'class',
+      }
+    </script>
+    <style>
+      /* Low-stimulation defaults */
+      .reveal { opacity: 1; transform: none; }
+      .reveal-active { opacity: 1; transform: none; }
+    </style>
+  </head>
+  <body class="antialiased bg-white text-kotori-text dark:bg-gray-900">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+
+

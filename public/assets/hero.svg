@@ -1,0 +1,18 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Kotori hero placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#60A5FA" />
+      <stop offset="100%" stop-color="#0D9488" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" fill="url(#g)"/>
+  <g fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="2">
+    <path d="M0,520 C200,420 300,580 500,520 C700,460 800,620 1000,540 C1100,500 1200,560 1200,560"/>
+    <path d="M0,580 C220,480 320,640 520,580 C720,520 820,680 1020,600 C1120,560 1200,620 1200,620"/>
+  </g>
+  <g font-family="'DM Sans', 'Inter', Arial, sans-serif" fill="#ffffff">
+    <text x="60" y="120" font-size="56" font-weight="700">Kotori</text>
+    <text x="60" y="180" font-size="24" opacity="0.9">Voice journaling for parents</text>
+  </g>
+</svg>
+
