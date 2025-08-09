@@ -5,7 +5,7 @@ export function FAQ() {
 
   if (loading) {
     return (
-      <section className="py-24 bg-gradient-to-br from-gray-50/50 to-kotori-pastelLavender/20 dark:bg-gray-900" id="faq">
+      <section className="py-24 bg-gradient-to-br from-gray-50/50 to-kotori-pastelLavender/20 dark:from-gray-900 dark:to-gray-800" id="faq">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="h-8 bg-gray-200 dark:bg-gray-700 rounded w-64 mb-6 animate-pulse" />
           <div className="space-y-3">
@@ -22,7 +22,7 @@ export function FAQ() {
   if (!faq) return null;
 
   return (
-    <section className="py-24 bg-gradient-to-br from-gray-50/50 to-kotori-pastelLavender/20 dark:bg-gray-900" id="faq">
+    <section className="py-24 bg-gradient-to-br from-gray-50/50 to-kotori-pastelLavender/20 dark:from-gray-900 dark:to-gray-800" id="faq">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-4">{faq.headline}</h2>

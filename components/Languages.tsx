@@ -16,8 +16,8 @@ export function Languages() {
         </div>
         <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3">
           {languages.items.map((lang, idx) => (
-            <div key={idx} className="px-4 py-3 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-900 text-gray-800 dark:text-gray-200">
-              <span className="font-medium" style={{ color: branding.colors.text }}>{lang}</span>
+            <div key={idx} className="px-4 py-3 rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-200">
+              <span className="font-medium">{lang}</span>
             </div>
           ))}
         </div>

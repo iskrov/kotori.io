@@ -39,7 +39,7 @@ export function CallToAction() {
   const { callToAction, branding } = config;
 
   return (
-    <section className="py-24 bg-gradient-to-br from-kotori-pastelLavender/30 to-kotori-pastelLavender/60" id="final-cta">
+    <section className="py-24 bg-gradient-to-br from-kotori-pastelLavender/30 to-kotori-pastelLavender/60 dark:from-gray-800 dark:to-gray-900" id="final-cta">
       <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <h2 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-4">
           {callToAction.headline}

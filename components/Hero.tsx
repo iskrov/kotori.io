@@ -51,7 +51,7 @@ export function Hero() {
       style={colorStyles}
     >
       {/* Background decoration */}
-      <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-kotori-pastelBlue via-white to-white" />
+      <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-kotori-pastelBlue via-white to-white dark:from-gray-800 dark:via-gray-900 dark:to-gray-900" />
       {/* Faint oversized bird silhouette (centered, responsive) */}
       {branding.logo.iconUrl && (
         <div className="pointer-events-none select-none absolute inset-0 flex items-center justify-center" aria-hidden>
@@ -93,7 +93,7 @@ export function Hero() {
         </div>
       </div>
       {/* Bottom soft transition into next section */}
-      <div className="pointer-events-none absolute bottom-0 left-0 right-0 h-24 bg-gradient-to-b from-transparent to-kotori-pastelSage/60" aria-hidden />
+      <div className="pointer-events-none absolute bottom-0 left-0 right-0 h-24 bg-gradient-to-b from-transparent to-kotori-pastelSage/60 dark:to-gray-800/60" aria-hidden />
     </div>
   );
 } 
