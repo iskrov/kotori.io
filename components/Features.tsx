@@ -1,3 +1,4 @@
+import { Mic, FileText, EyeOff, Users, Calendar, Shield } from 'lucide-react';
 import { useSiteConfig } from '../hooks/useSiteConfig';
 
 export function Features() {
@@ -44,8 +45,23 @@ export function Features() {
 
   const { features, branding } = config;
 
+  // Map features to appropriate Lucide icons
+  const getFeatureIcon = (index: number, title: string) => {
+    const iconMap = [
+      Mic,        // Voice → structure
+      FileText,   // Templates & reminders  
+      EyeOff,     // Low-stim, eyes-free
+      Users,      // Multi-language sharing
+      Calendar,   // Weekly summaries
+      Shield      // Private by default
+    ];
+    
+    const IconComponent = iconMap[index] || Mic;
+    return <IconComponent className="h-7 w-7" style={{ color: branding.colors.primary }} />;
+  };
+
   return (
-    <section className="py-24 bg-kotori-pastelSage/60" id="features">
+    <section className="py-24 bg-kotori-pastelSage/60 dark:bg-gray-900" id="features">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16 reveal">
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-4">
@@ -58,12 +74,14 @@ export function Features() {
         
         <div className="grid md:grid-cols-3 gap-8 lg:gap-12">
           {features.map((feature, index) => (
-            <div key={index} className="text-center">
-              <div 
-                className="inline-flex items-center justify-center w-14 h-14 rounded-full text-2xl mb-5"
-                style={{ backgroundColor: `${branding.colors.primary}22`, color: branding.colors.primary }}
-              >
-                {feature.icon}
+            <div key={index} className="text-center group">
+              <div className="mb-6">
+                <div 
+                  className="inline-flex items-center justify-center w-16 h-16 rounded-2xl shadow-sm transition-all duration-300 group-hover:shadow-md group-hover:scale-105"
+                  style={{ backgroundColor: `${branding.colors.primary}15` }}
+                >
+                  {getFeatureIcon(index, feature.title)}
+                </div>
               </div>
               
               <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">
