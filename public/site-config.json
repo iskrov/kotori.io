@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Kotori — Calm, private voice journaling",
-    "description": "A low‑stim voice journal that organizes itself. Gentle prompts, eyes‑free capture, consent‑based sharing, multi‑language summaries, and visit‑ready weekly exports.",
+    "title": "Kotori — Hands-free journaling made simple",
+    "description": "A low-stim voice journal that organizes itself. Gentle prompts, eyes-free capture, consent-based sharing, multi-language summaries, and visit-ready weekly exports.",
     "tagline": "You talk. Kotori remembers.",
     "domain": "kotori.io"
   },
@@ -41,7 +41,7 @@
   "features": [
     { "title": "Voice → structure", "description": "Speak naturally; Kotori extracts titles, highlights, and tags so notes are easy to skim.", "icon": "🎤" },
     { "title": "Templates & reminders", "description": "Use simple prompts and gentle reminders that fit your rhythm.", "icon": "📝" },
-    { "title": "Low‑stim, eyes‑free", "description": "Capture without screens when you need to—just speak and continue your day.", "icon": "👁️‍🗨️" },
+    { "title": "Low-stim, eyes-free", "description": "Capture without screens when you need to—just speak and continue your day.", "icon": "👁️‍🗨️" },
     { "title": "Multi‑language share", "description": "Keep entries in your language and share a summary in another when needed.", "icon": "🌍" },
     { "title": "Consent‑based sharing", "description": "Invite a caregiver or clinician with read‑only access you can revoke anytime.", "icon": "🔗" },
     { "title": "Weekly visit summary", "description": "One tap creates a clear weekly summary you can export and bring to appointments.", "icon": "📄" }
@@ -73,7 +73,7 @@
     ]
   },
   "useCases": [
-    { "title": "Capture the small moments", "description": "Voice a quick note when something changes—sleep, a new word, a tough transition.", "features": ["One‑tap record", "Gently structured entries", "Photos optional"] },
+    { "title": "Capture the small moments", "description": "Voice a quick note when something changes - sleep, a new word, a tough transition.", "features": ["One-tap record", "Gently structured entries", "Photos optional"] },
     { "title": "Reflect and prepare", "description": "Before an appointment, review highlights and see what patterns stand out.", "features": ["Highlights view", "Search by tag/date", "Calendar timeline"] },
     { "title": "Share across languages", "description": "Keep your entries in your language; send a summary in your doctor’s.", "features": ["Bilingual summaries", "Selective sharing", "Easy export"] }
   ],
@@ -111,7 +111,7 @@
   "footer": {
     "company": {
       "name": "Kotori",
-      "description": "Your journal is private by default. You choose what to share and can revoke access anytime. Kotori is not a medical device and does not provide medical advice, diagnosis, or treatment."
+      "description": "Kotori — Privacy voice journaling with smart organization. Your journal is private by default. You choose what to share and can revoke access anytime. Kotori is not a medical device and does not provide medical advice, diagnosis, or treatment."
     },
     "links": {
       "product": ["Features", "Security", "Pricing"],

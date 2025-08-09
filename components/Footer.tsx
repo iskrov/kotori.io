@@ -160,7 +160,7 @@ export function Footer() {
               © {new Date().getFullYear()} {footer.company.name}. All rights reserved.
             </p>
              <p className="text-gray-400 text-sm mt-4 md:mt-0">
-               Kotori — privacy‑first journaling
+                Kotori - privacy-first journaling
              </p>
           </div>
         </div>
